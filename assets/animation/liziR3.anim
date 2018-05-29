@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "liziR3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            -56
+          ],
+          "motionPath": [
+            [
+              77,
+              -325,
+              64,
+              -88,
+              100,
+              -607
+            ]
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            100,
+            -1000
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

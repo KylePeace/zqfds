@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c79fb2b2-77de-48d6-86ed-ca0ca1e5237b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "logo_feidaoshou": {
+      "ver": "1.0.3",
+      "uuid": "2a63196f-ab1d-435e-a148-6d27427f79a2",
+      "rawTextureUuid": "c79fb2b2-77de-48d6-86ed-ca0ca1e5237b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 418,
+      "height": 229,
+      "rawWidth": 421,
+      "rawHeight": 231,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

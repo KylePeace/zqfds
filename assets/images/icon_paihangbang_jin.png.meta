@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "395db8fe-1bdb-4487-960b-06e0416d3e8f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_paihangbang_jin": {
+      "ver": "1.0.3",
+      "uuid": "0736cd4a-4cc0-42f0-a8ea-6b9c82d31879",
+      "rawTextureUuid": "395db8fe-1bdb-4487-960b-06e0416d3e8f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 41,
+      "height": 36,
+      "rawWidth": 41,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

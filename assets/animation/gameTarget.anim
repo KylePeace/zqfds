@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gameTarget",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.45,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 4.45,
+          "value": 360
+        }
+      ]
+    }
+  },
+  "events": []
+}
